@@ -1,1 +1,1 @@
-# Workshop
+# Algorithmic Trading with Python
