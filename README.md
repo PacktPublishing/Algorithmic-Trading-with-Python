@@ -10,7 +10,7 @@ The fastest way to get Python, Jupyter, and the scientific stack is the [Anacond
 conda list
 ```
 
-You should see a list of installed packages. See the included guide: Install [Python with the Anaconda Distribution (PDF)]()https://github.com/PacktPublishing/Algorithmic-Trading-with-Python/blob/main/01.%20Installation%20Instructions/01.%20Install_Python_with_the_Anaconda_Distribution.pdf.
+You should see a list of installed packages. See the included guide: Install [Python with the Anaconda Distribution (PDF)](https://github.com/PacktPublishing/Algorithmic-Trading-with-Python/blob/main/01.%20Installation%20Instructions/01.%20Install_Python_with_the_Anaconda_Distribution.pdf).
 
 ## Install the Python libraries (recommended workflow)
 
@@ -30,6 +30,8 @@ pip install jupyterlab
 # backtesting stack
 pip install vectorbt
 ```
+
+See the included guide: [Installing the Python Quant Stack (PDF)](https://github.com/PacktPublishing/Algorithmic-Trading-with-Python/blob/main/01.%20Installation%20Instructions/02.%20Installing_the_Python_Quant_Stack.pdf).
 
 ### Optional — Interactive Brokers API (for live trading workflows):
 
