@@ -1,16 +1,16 @@
 # Algorithmic Trading with Python
 
-Materials for the Algorithmic Trading with Python workshop hosted by Jason Strimpel on September 27, 2025. Jason is the founder of PyQuant News Jason and has 20+ years in trading, risk, and quantitative finance across hedge funds, banks, and trading firms. He publishes practical Python workflows for quants and traders at PyQuant News.
+Materials for the Algorithmic Trading with Python workshop hosted by Jason Strimpel on September 27, 2025. Jason is the founder of [PyQuant News](https://www.pyquantnews.com/) Jason and has 20+ years in trading, risk, and quantitative finance across hedge funds, banks, and trading firms. He publishes practical Python workflows for quants and traders at PyQuant News.
 
 ##  Installation
 
-The fastest way to get Python, Jupyter, and the scientific stack is the Anaconda Distribution. Download the installer for your OS and complete the setup. Open Anaconda Prompt (Windows) or Terminal (macOS/Linux) and verify your install with:
+The fastest way to get Python, Jupyter, and the scientific stack is the [Anaconda Distribution](https://www.anaconda.com/download). Download the installer for your OS and complete the setup. Open Anaconda Prompt (Windows) or Terminal (macOS/Linux) and verify your install with:
 
 ```
 conda list
 ```
 
-You should see a list of installed packages. See the included guide: Install Python with the Anaconda Distribution (PDF).
+You should see a list of installed packages. See the included guide: Install [Python with the Anaconda Distribution (PDF)]()https://github.com/PacktPublishing/Algorithmic-Trading-with-Python/blob/main/01.%20Installation%20Instructions/01.%20Install_Python_with_the_Anaconda_Distribution.pdf.
 
 ## Install the Python libraries (recommended workflow)
 
@@ -33,7 +33,7 @@ pip install vectorbt
 
 ### Optional — Interactive Brokers API (for live trading workflows):
 
-Install the IB Python API from Interactive Brokers’ distribution (Windows MSI or Mac/Linux ZIP), then from the extracted pythonclient folder run:
+Install the [IB Python API](https://interactivebrokers.github.io/) from Interactive Brokers’ distribution (Windows MSI or Mac/Linux ZIP), then from the extracted pythonclient folder run:
 
 ```
 pip install .
